@@ -17,3 +17,7 @@ Key attributes of the weather app encompass:
 
 In sum, this meticulously constructed weather app utilizing HTML, CSS, and JavaScript serves as an accessible, user-friendly solution for staying well-informed about weather conditions across diverse locations. Its blend of design and functionality provides a seamless experience, aiding users in effortlessly staying connected with the weather's ever-changing nature.
 
+## License
+
+[MIT License](LICENSE)
+
